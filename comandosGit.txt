@@ -1,0 +1,9 @@
+
+//Subir codigo via git
+git status
+git add .
+git commit -m "Testando a primeira classe de dominio categoria"
+git push
+
+
+git log
